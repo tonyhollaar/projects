@@ -1,2 +1,4 @@
-# projects
-data analytics projects repository tony hollaar
+# Projects
+Data Analytics Projects Repository of Tony Hollaar
+
+Projects to be added soon...
