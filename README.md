@@ -6,5 +6,6 @@ Data Analytics Projects Repository of Tony Hollaar
 
 ## SQL
 - [SQLite3 Dummy Dataset - Events Data](https://github.com/tonyhollaar/projects/blob/67851d175b0f23fbde9a2ada0b8ba190ee559928/SQLite3_Example.ipynb)
+  Description: Examples how to query aggregatations (count/sum) and flattening of SQL tables with e.g. 1 row per user utilizing Python package SQLite3
 
 Projects to be added soon and existing to be updated...
