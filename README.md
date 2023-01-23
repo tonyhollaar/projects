@@ -10,6 +10,7 @@
 
 ## Visualizations
 - [Bar Chart Race](https://github.com/tonyhollaar/projects/blob/7a0b0e8d2896d397ae0df9cc768f2fc8ed77cf34/Visualizations_Bar_Chart_Race.ipynb)
+- [Bar Chart Example Video](https://github.com/tonyhollaar/projects/blob/49d53f100b31bd51a59ce66df6db3b5777d52d7a/Visualizations_Bar_Chart_Race_Example_Video.mp4)
 <br> <b> Description: </b> Example of animated bar charts of select countries yearly population changes between 1960-2021
 
 #
