@@ -17,7 +17,7 @@
 - [Dashboard - Youtube Metrics](https://github.com/tonyhollaar/dashboards)
 - [Dashboard - Youtube Metrics Example App (Created with Streamlit)](https://tonyhollaar-dashboards-dashboard-youtube-9g4la2.streamlit.app/)
 <br> <b> Description: </b> Example of Dashboard with Youtube Metrics created with Streamlit Package
-<br> Special thanks to Ken Jee for the tutorial, see source: https://30days.streamlit.app/?challenge=Day+4#install-the-streamlit-library
+<br> Special thanks to Ken Jee for the tutorial, for tutorial click [link](https://30days.streamlit.app/?challenge=Day+4#install-the-streamlit-library)
 
 
 #
