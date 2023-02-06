@@ -13,6 +13,13 @@
 - [Bar Chart Example GIF](https://github.com/tonyhollaar/projects/blob/12a1514c76c25a08b0c03dabd9712fee72e20f33/Visualizations_Bar_Chart_Race_Example.gif)
 <br> <b> Description: </b> Example of animated bar charts of select countries yearly population changes between 1960-2021
 
+## Dashboards
+- [Streamlit Dashboard](https://github.com/tonyhollaar/dashboards)
+- [Streamlit Example Dashboard Link](https://tonyhollaar-dashboards-dashboard-youtube-9g4la2.streamlit.app/)
+<br> <b> Description: </b> Example of Dashboard with Youtube Metrics created with Streamlit Package
+<br> Special thanks to Ken Jee for the tutorial, see source: https://30days.streamlit.app/?challenge=Day+4#install-the-streamlit-library
+
+
 #
 <br> <b> Author: </b> Tony Hollaar
 <br> <b> Subject: </b> Data Analytics/Science Projects Repository 
