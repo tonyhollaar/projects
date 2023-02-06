@@ -14,8 +14,8 @@
 <br> <b> Description: </b> Example of animated bar charts of select countries yearly population changes between 1960-2021
 
 ## Dashboards
-- [Streamlit Dashboard](https://github.com/tonyhollaar/dashboards)
-- [Streamlit Example Dashboard Link](https://tonyhollaar-dashboards-dashboard-youtube-9g4la2.streamlit.app/)
+- [Dashboard - Youtube Metrics](https://github.com/tonyhollaar/dashboards)
+- [Dashboard - Youtube Metrics Example App (Created with Streamlit)](https://tonyhollaar-dashboards-dashboard-youtube-9g4la2.streamlit.app/)
 <br> <b> Description: </b> Example of Dashboard with Youtube Metrics created with Streamlit Package
 <br> Special thanks to Ken Jee for the tutorial, see source: https://30days.streamlit.app/?challenge=Day+4#install-the-streamlit-library
 
