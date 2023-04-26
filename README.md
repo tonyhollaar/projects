@@ -29,13 +29,15 @@
 - [Bar Chart Example GIF](https://github.com/tonyhollaar/projects/blob/12a1514c76c25a08b0c03dabd9712fee72e20f33/Visualizations_Bar_Chart_Race_Example.gif)
 <br> <b> Description: </b> Example of animated bar charts of select countries yearly population changes between 1960-2021
 <br> **Programming language**: Python
-<br> **Packages used**: Pandas
+<br> **Packages used**: Pandas, WBGAPI, Bar_Chart_Race, RegEx
 
 ## Dashboards
 - [Dashboard - Youtube Metrics](https://github.com/tonyhollaar/dashboards)
 - [Dashboard - Youtube Metrics Example App (Created with Streamlit)](https://tonyhollaar-dashboards-dashboard-youtube-9g4la2.streamlit.app/)
 <br> <b> Description: </b> Example of Dashboard with Youtube Metrics created with Streamlit Package
 <br> Special thanks to Ken Jee for the tutorial, for tutorial click [link](https://30days.streamlit.app/?challenge=Day+4#install-the-streamlit-library)
+<br> **Programming language**: Python
+<br> **Packages used**: Streamlit, Pandas, Plotly
 
 
 #
