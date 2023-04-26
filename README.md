@@ -5,6 +5,9 @@
 <br> <b> Description: </b> Webscraping historical oil prices, utilizing US Labor Statistics API and creating stylized visualizations with Plotly Package 
 
 ## SQL
+<a target="_blank" href="https://colab.research.google.com/github/tonyhollaar/projects/blob/67851d175b0f23fbde9a2ada0b8ba190ee559928/SQLite3_Example.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
 - [SQLite3 Dummy Dataset - Events Data](https://github.com/tonyhollaar/projects/blob/67851d175b0f23fbde9a2ada0b8ba190ee559928/SQLite3_Example.ipynb)
 <br> <b>  Description: </b> Use cases for utilizing SQL queries such as aggregatations (count/sum) and flattening of SQL tables with e.g. 1 row per user utilizing Python package SQLite3
 
