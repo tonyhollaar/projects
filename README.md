@@ -1,6 +1,10 @@
 # Projects
 
 ## Webscraping
+<a target="_blank" href="https://colab.research.google.com/github/tonyhollaar/projects/blob/main/Example_1_Web_Scraping_Public_Dataset%20-%20US%20Labor%20Statistics.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 - [Example 1: US Labor Statistics](https://github.com/tonyhollaar/projects/blob/102e74fe13c980e7d694f4904db9fa0553eaa47e/Example%201:%20Web%20Scraping%20Public%20Dataset%20-%20US%20Labor%20Statistics.ipynb)
 <br> <b> Description: </b> Webscraping historical oil prices, utilizing US Labor Statistics API and creating stylized visualizations with Plotly Package 
 
