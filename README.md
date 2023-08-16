@@ -36,7 +36,7 @@
 1. [Dashboard - GasPriceWatcher](https://bls-connection-demo.streamlit.app/) 
 <br> <b> Description: </b> Dashboard to compare U.S. gasoline prices vs. electric vehicle electricity costs 🚗⚡
 <br> **Programming language**: Python
-<br> **Packages used**: Streamlit, Pandas, Plotly
+<br> **Packages used**: Streamlit, Pandas, Plotly, Json, Base64, Numpy, Requests, PIL 
 <br> **Source Code**: [Link](https://github.com/tonyhollaar/streamlit_connection)
 
 3. [Dashboard - Youtube Metrics](https://tonyhollaar-dashboards-dashboard-youtube-9g4la2.streamlit.app/)
