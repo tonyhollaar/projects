@@ -32,13 +32,22 @@
 <br> **Packages used**: Pandas, WBGAPI, Bar_Chart_Race, RegEx
 
 ## Dashboards
-- [Dashboard - Youtube Metrics](https://github.com/tonyhollaar/dashboards)
-- [Dashboard - Youtube Metrics Example App (Created with Streamlit)](https://tonyhollaar-dashboards-dashboard-youtube-9g4la2.streamlit.app/)
+1. [Dashboard - GasPriceWatcher](https://bls-connection-demo.streamlit.app/) 
+<br> <b> Description: </b> Dashboard to compare U.S. gasoline prices vs. electric vehicle electricity costs 🚗⚡
+<br> **Programming language**: Python
+<br> **Packages used**: Streamlit, Pandas, Plotly
+<br> **Source Code**: [Link](https://github.com/tonyhollaar/streamlit_connection)
+
+3. [Dashboard - Youtube Metrics](https://tonyhollaar-dashboards-dashboard-youtube-9g4la2.streamlit.app/)
 <br> <b> Description: </b> Example of Dashboard with Youtube Metrics created with Streamlit Package
 <br> Special thanks to Ken Jee for the tutorial, for tutorial click [link](https://30days.streamlit.app/?challenge=Day+4#install-the-streamlit-library)
 <br> **Programming language**: Python
 <br> **Packages used**: Streamlit, Pandas, Plotly
+<br> **Source Code**: [Link](https://github.com/tonyhollaar/dashboards)
 
+## API
+- [Streamlit Connection to Public Bureau of Labor Statistics Data](https://github.com/tonyhollaar/streamlit_bls_connection)
+<br> <b> Description: </b> The `streamlit-bls-connection` Python package allows you to easily interact with the U.S. Bureau of Labor Statistics (BLS) API and retrieve data as pandas dataframes and display them in [`Streamlit`](https://docs.streamlit.io/) !
 
 #
 <br> <b> Author: </b> Tony Hollaar
