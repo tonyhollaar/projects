@@ -32,6 +32,7 @@
 <br> **Packages used**: Pandas, WBGAPI, Bar_Chart_Race, RegEx
 
 ## Dashboards
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bls-connection-demo.streamlit.app/)
 1. [Dashboard - GasPriceWatcher](https://bls-connection-demo.streamlit.app/) 
 <br> <b> Description: </b> Dashboard to compare U.S. gasoline prices vs. electric vehicle electricity costs 🚗⚡
 <br> **Programming language**: Python
