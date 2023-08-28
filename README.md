@@ -31,6 +31,11 @@
 <br> **Programming language**: Python
 <br> **Packages used**: Pandas, WBGAPI, Bar_Chart_Race, RegEx
 
+- [Polar Plot](https://github.com/tonyhollaar/projects/blob/3fabc8900c74a55d9879b6bc0a4bf03a3cc1b60e/Visualizations_Bar_Chart_Race.ipynb)
+<br> <b> Description: </b> Example of a Polar Plot of Countries Government Debt as % of GDP
+<br> **Programming language**: Python
+<br> **Packages used**: Pandas, Numpy, Math, MatPlotLib, Seaborn, PIL
+
 ## Dashboards
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bls-connection-demo.streamlit.app/)
 1. [Dashboard - GasPriceWatcher](https://bls-connection-demo.streamlit.app/) 
