@@ -60,7 +60,7 @@
 <br><b>Description:</b> The "Pong Game" project is a classic arcade-style game implemented in Python.
 <br><b>Use Case:</b> This project is a practical illustration of OOP in action. It demonstrates how classes, objects, and inheritance can be used to create modular and maintainable code. It's not just a game; it's a codebase that reflects good programming practices.
 <br> **Programming language**: Python
-<br> **Packages used**: turtle, time
+<br> **Packages used**: Turtle, Time
 <br> **Source Code**: [Pong Game](https://github.com/tonyhollaar/pong_game/)
 
 #
