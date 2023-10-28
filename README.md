@@ -55,6 +55,9 @@
 - [Streamlit Connection to Public Bureau of Labor Statistics Data](https://github.com/tonyhollaar/streamlit_bls_connection)
 <br> <b> Description: </b> The `streamlit-bls-connection` Python package allows you to easily interact with the U.S. Bureau of Labor Statistics (BLS) API and retrieve data as pandas dataframes and display them in [`Streamlit`](https://docs.streamlit.io/) !
 
+## Object Oriented Programming Samples
+- [Pong Game](https://github.com/tonyhollaar/pong_game/)
+
 #
 <br> <b> Author: </b> Tony Hollaar
 <br> <b> Subject: </b> Data Analytics/Science Projects Repository 
