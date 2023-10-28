@@ -56,9 +56,12 @@
 <br> <b> Description: </b> The `streamlit-bls-connection` Python package allows you to easily interact with the U.S. Bureau of Labor Statistics (BLS) API and retrieve data as pandas dataframes and display them in [`Streamlit`](https://docs.streamlit.io/) !
 
 ## Games
-- [Pong Game](https://github.com/tonyhollaar/pong_game/)
+- <b> Pong </b>
 <br><b>Description:</b> The "Pong Game" project is a classic arcade-style game implemented in Python.
 <br><b>Use Case:</b> This project is a practical illustration of OOP in action. It demonstrates how classes, objects, and inheritance can be used to create modular and maintainable code. It's not just a game; it's a codebase that reflects good programming practices.
+<br> **Programming language**: Python
+<br> **Packages used**: turtle, time
+<br> **Source Code**: [Pong Game](https://github.com/tonyhollaar/pong_game/)
 
 #
 <br> <b> Author: </b> Tony Hollaar
