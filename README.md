@@ -52,6 +52,13 @@
 <br> **Source Code**: [Link](https://github.com/tonyhollaar/dashboards)
 
 ## API
+- [Fiscal Calendar](https://github.com/tonyhollaar/fiscal_calendar)
+<br> <b> Description: </b> The fiscal calendar package is a 4-5-4 calendar used commonly to ensures sales comparability between years by dividing the year into months based on a 4 weeks – 5 weeks – 4 weeks format.
+  - *Sales Comparability:* The layout of the calendar strategically aligns holidays and guarantees an equal number of Saturdays and Sundays in comparable months. This approach ensures a fair comparison of like days for accurate sales reporting.
+  - *Date Features:* This package encompasses a comprehensive set of 44 features tailored to fiscal dates, providing versatility in managing and analyzing fiscal timeframes.
+  - *PDF Export:* Seamlessly generate and save your fiscal calendar in PDF format with the package's user-friendly functionality.
+  - *Pandas Integration:* Easily output Fiscal Calendar data to a Pandas Dataframe for efficient analysis and integration with other data processing workflows.
+
 - [Streamlit Connection to Public Bureau of Labor Statistics Data](https://github.com/tonyhollaar/streamlit_bls_connection)
 <br> <b> Description: </b> The `streamlit-bls-connection` Python package allows you to easily interact with the U.S. Bureau of Labor Statistics (BLS) API and retrieve data as pandas dataframes and display them in [`Streamlit`](https://docs.streamlit.io/) !
 
